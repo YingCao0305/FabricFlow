@@ -1,0 +1,36 @@
+Academic Non-Commercial Research License
+
+Copyright (c) 2026 [Ying Cao]
+All rights reserved.
+
+Permission is hereby granted to any individual or non-profit academic institution to use, copy, modify, and distribute the materials in this repository solely for non-commercial academic research and educational purposes, subject to the following conditions:
+
+1. Non-Commercial Use Only
+This repository and its contents, including but not limited to source code, scripts, models, annotations, documentation, and related materials, may be used only for non-commercial academic research and educational purposes.
+
+Commercial use of any kind is strictly prohibited without prior written permission from the copyright holder(s). Commercial use includes, but is not limited to, use in or for commercial products, services, consulting, proprietary workflows, industrial applications, or any activity intended for direct or indirect commercial advantage or monetary compensation.
+
+2. Required Citation
+Any publication, report, presentation, thesis, derivative work, or other public disclosure arising in whole or in part from the use of this repository or its contents must cite the following paper:
+
+Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation,
+Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
+
+3. Redistribution
+Redistribution of this repository or modified versions of it is permitted for non-commercial academic research and educational purposes only, provided that:
+(a) This license is included in full in any copy or redistribution;
+(b) Proper attribution is given to the original author(s); and
+(c) The citation requirement stated above is preserved.
+
+4. No Implicit Rights
+No patent rights, trademark rights, or other intellectual property rights are granted by this license except the limited rights expressly stated above.
+
+5. Disclaimer
+THIS REPOSITORY AND ALL MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE REPOSITORY OR THE USE OF OR OTHER DEALINGS IN THE REPOSITORY.
+
+6. Contact for Commercial Licensing
+For commercial use, please contact the author(s) or copyright holder(s) to obtain a separate written license.
+
+By accessing or using this repository, you agree to the terms of this license.
