@@ -228,7 +228,7 @@ export RECON_PYTHON=./.venv_reconstruction/bin/python
 export ROTATION_ANGLE=95
 ```
 
-## Third-Party Attribution
+## Reference
 
 This repository integrates third-party model code and does not claim authorship of those implementations.
 
