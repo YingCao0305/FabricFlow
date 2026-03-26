@@ -13,8 +13,8 @@ Commercial use of any kind is strictly prohibited without prior written permissi
 2. Required Citation
 Any publication, report, presentation, thesis, derivative work, or other public disclosure arising in whole or in part from the use of this repository or its contents must cite the following paper:
 
-Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation,
-Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
+Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Xiaoping Yang, Chao Li, FabricFlow: Automatic segmentation of 3D closely packed woven fabric in low-contrast CT images through gradient flow tracking,
+Materials Today Communications, Volume 48, 2025, 113294, ISSN 2352-4928, https://doi.org/10.1016/j.mtcomm.2025.113294.
 
 3. Redistribution
 Redistribution of this repository or modified versions of it is permitted for non-commercial academic research and educational purposes only, provided that:
