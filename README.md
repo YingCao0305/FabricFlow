@@ -262,3 +262,19 @@ This repository integrates third-party model code and does not claim authorship 
 - bundled notice file: `cellpose-main/NOTICE.md`
 
 Keep the original upstream licenses and citations when redistributing the repository.
+
+## Citation
+
+If you find this repository useful in your research, please cite our paper:
+
+```bibtex
+@article{cao2025fabricflow,
+  title={FabricFlow: Automatic segmentation of 3D closely packed woven fabric in low-contrast CT images through gradient flow tracking},
+  author={Cao, Ying and Nie, Ziwei and Sun, Fangfang and Zhao, Qian and Yang, Xiaoping and Li, Chao},
+  journal={Materials Today Communications},
+  volume={48},
+  pages={113294},
+  year={2025},
+  issn={2352-4928},
+  doi={10.1016/j.mtcomm.2025.113294}
+}
