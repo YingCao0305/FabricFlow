@@ -1,0 +1,13 @@
+{
+    "channel_names": {
+        "0": "Gray"
+    },
+    "labels": {
+        "background": 0,
+        "Fiber1": 1,
+        "Fiber2": 2
+    },
+    "numTraining": 2400,
+    "file_ending": ".nii.gz",
+    "name": "Dataset666_FiberSegmentation"
+}
