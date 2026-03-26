@@ -278,3 +278,13 @@ If you find this repository useful in your research, please cite our paper:
   issn={2352-4928},
   doi={10.1016/j.mtcomm.2025.113294}
 }
+```
+Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Xiaoping Yang, Chao Li,
+FabricFlow: Automatic segmentation of 3D closely packed woven fabric in low-contrast CT images through gradient flow tracking,
+Materials Today Communications, Volume 48, 2025, 113294, ISSN 2352-4928, https://doi.org/10.1016/j.mtcomm.2025.113294.
+
+
+## Contact
+
+Email: [yingcao@smail.nju.edu.cn](mailto:yingcao@smail.nju.edu.cn)
+
