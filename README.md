@@ -95,19 +95,6 @@ deactivate
 
 If you prefer Conda, create three Conda environments and install the same requirement files with `pip install -r ...`.
 
-### Optional Single-Environment Install
-
-For quick inspection or CI only:
-
-```bash
-cd ./FabricFlow
-python -m venv .venv_all
-source .venv_all/bin/activate
-pip install -r requirements.txt
-```
-
-The runtime scripts are still designed around separate environments. The all-in-one environment is only a convenience option.
-
 ## Dataset Preparation
 
 Before running segmentation, place the initial input data in:
