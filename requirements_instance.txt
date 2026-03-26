@@ -1,0 +1,18 @@
+# Instance segmentation environment for Cellpose-based stages.
+# For upstream guidance, see cellpose-main/NOTICE.md and Cellpose official docs.
+
+fastremap==1.14.1
+imagecodecs==2024.1.1
+llvmlite==0.42.0
+matplotlib==3.9.2
+natsort==8.4.0
+numba==0.59.1
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+roifile==2024.3.20
+scipy==1.13.1
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tifffile==2024.5.10
+tqdm==4.66.4

@@ -1,0 +1,28 @@
+# Semantic segmentation environment for nnUNetv2-based stages.
+# For upstream guidance, see nnUNet-master/NOTICE.md and nnUNetv2 official docs.
+
+acvl-utils==0.2
+batchgenerators==0.25
+connected-components-3d==3.12.4
+dicom2nifti==2.4.10
+dynamic-network-architectures==0.2
+graphviz==0.20.3
+hiddenlayer==0.3
+imagecodecs==2024.1.1
+matplotlib==3.9.2
+nibabel==5.2.1
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.4.0
+requests==2.32.3
+scikit-image==0.22.0
+scikit-learn==1.4.2
+scipy==1.13.1
+seaborn==0.13.2
+SimpleITK==2.3.1
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tifffile==2024.5.10
+tqdm==4.66.4
+yacs==0.1.8

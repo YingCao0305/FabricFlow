@@ -1,0 +1,9 @@
+# Optional all-in-one install for quick validation or CI.
+# The official workflow uses three separate environments:
+# - requirements_semantic.txt
+# - requirements_instance.txt
+# - requirements_reconstruction.txt
+
+-r requirements_semantic.txt
+-r requirements_instance.txt
+-r requirements_reconstruction.txt

@@ -1,0 +1,8 @@
+# Reconstruction environment for slice-wise clustering and label propagation.
+
+matplotlib==3.9.2
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+Pillow==10.4.0
+scikit-image==0.22.0
+scipy==1.13.1
